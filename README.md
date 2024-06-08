@@ -76,4 +76,4 @@ En cada submenú, el usuario tendrá la opción de guardar en un nuevo archivo e
 Este proyecto utiliza la ***API ExchangeRate*** para obtener las tasas de cambio actualizadas. Asegúrate de tener una clave de API válida y configurada en el proyecto.
 
 ## **Créditos**
-Este proyecto fue desarrollado por Samantha Munguía como parte del programa educativo de Oracle Next Education y Alura Latam.
+Este proyecto fue desarrollado por **Samantha Munguía** como parte del programa educativo de Oracle Next Education y Alura Latam.
