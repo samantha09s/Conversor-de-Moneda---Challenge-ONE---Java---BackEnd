@@ -44,7 +44,7 @@ Este proyecto es una app de un conversor de monedas, desarrollado en Java e impl
 ## **Instalación**
 1. Clonar el repositorio o descargar los archivos fuente.
    ```bash
-   git clone https://github.com/samantha09s/.git
+   git clone https://github.com/samantha09s/Conversor-de-Moneda-ChallengeONE.git
    ```
 2. Asegurarse de tener Java instalado en el sistema.
    ```bash
