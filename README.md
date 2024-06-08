@@ -11,7 +11,10 @@
 
 <p align="center">
   
+  ![Releasea](https://img.shields.io/badge/Release%20Date:-Junio/2024-white)
+  ![JAVA](https://img.shields.io/badge/JAVA-red)
   ![API](https://img.shields.io/badge/API-ExchangeRateAPI-blue)  
+  ![Finalizado](https://img.shields.io/badge/Status:-Demo-white)
 </p>
 
 ## **Índice**
@@ -33,10 +36,10 @@ Este proyecto es una app de un conversor de monedas, desarrollado en Java e impl
 - **Navegación Intuitiva:** En cualquier momento, el usuario puede optar por retornar al menú principal.
 
 ## **Requisitos del Sistema**
-- Java 8 o superior
-- Conexión a internet para acceder a la API de tasas de cambio
-- Biblioteca Gson para parsear JSON
-- Un IDE de desarrollo de Java
+- Java 8 o superior.
+- Conexión a internet para acceder a la API de tasas de cambio.
+- Biblioteca Gson para parsear JSON.
+- Un IDE de desarrollo de Java.
 
 ## **Instalación**
 1. Clonar el repositorio o descargar los archivos fuente.
